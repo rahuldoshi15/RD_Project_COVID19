@@ -129,7 +129,7 @@ Then open the provided local URL in your browser.
 
 ---
 
-## 🌐 Streamlit Deployment
+## Streamlit Deployment
 
 The Streamlit interface allows users to:
 
@@ -140,7 +140,7 @@ The Streamlit interface allows users to:
 
 ---
 
-## 🏆 Key Contributions
+## Key Contributions
 
 - Custom CNN architecture optimized for 3-class classification
 - Data augmentation for improved generalization
@@ -150,7 +150,7 @@ The Streamlit interface allows users to:
 
 ---
 
-## ⚠ Disclaimer
+## Disclaimer
 
 This system is developed strictly for academic and research purposes.
 
@@ -158,7 +158,7 @@ It is not intended for clinical diagnosis, medical advice, or real-world medical
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Rahul Doshi  
 MCA (Artificial Intelligence)  
